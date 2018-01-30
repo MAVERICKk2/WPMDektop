@@ -1,0 +1,25 @@
+{
+  "name": "wpmdesktop",
+  "version": "1.0.0",
+  "description": "Container of WPM",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MAVERICKk2/WPMDektop.git"
+  },
+  "keywords": [
+    "Electron"
+  ],
+  "author": "MAVERICK",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "~1.7.8"
+  },
+  "bugs": {
+    "url": "https://github.com/MAVERICKk2/WPMDektop/issues"
+  },
+  "homepage": "https://github.com/MAVERICKk2/WPMDektop#readme"
+}
