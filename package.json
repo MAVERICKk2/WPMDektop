@@ -4,7 +4,12 @@
   "description": "Container of WPM",
   "main": "main.js",
   "scripts": {
-    "start": "electron ."
+    "start": "electron .",
+    "pack": "build --dir"
+  },
+  "build": {
+    "appId": "electron.WebDesktop",
+    "productName": "WPMDesktop"
   },
   "repository": {
     "type": "git",
