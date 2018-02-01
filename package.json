@@ -21,7 +21,8 @@
   "author": "MAVERICK",
   "license": "ISC",
   "devDependencies": {
-    "electron": "~1.7.8"
+    "electron": "~1.7.8",
+    "electron-builder": "~19.55.3"
   },
   "bugs": {
     "url": "https://github.com/MAVERICKk2/WPMDektop/issues"

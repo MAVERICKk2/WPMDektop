@@ -15,7 +15,7 @@ let mainWindow;
 function createWindow() {
     //Create the browser window.
     mainWindow = new BrowserWindow({width: 1150, height: 700, icon: "img/snake.jpg"});
-    mainWindow.setMenu(false);
+    mainWindow.setMenu(null);
 
     // load the index.html of the app
     mainWindow.loadURL(url.format({
